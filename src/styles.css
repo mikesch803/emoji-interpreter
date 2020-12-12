@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: coral;
+}
+
+body {
+  background-color: black;
+  width: 750px;
+  margin: 0 auto;
+}
